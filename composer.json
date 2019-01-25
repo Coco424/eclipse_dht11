@@ -1,0 +1,12 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Coco\\Dht11\\" : "src"
+		}
+	},
+	"name" : "Coco/mvc",
+	"require" : {
+		"php" : ">=7.2",
+		"phpunit/phpunit" : "~7.5"
+	}
+}
